@@ -1,3 +1,9 @@
+# Eclipse IDE
+.settings
+target/
+log/
+logs/
+
 # Compiled class file
 *.class
 
